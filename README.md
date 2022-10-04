@@ -21,7 +21,7 @@
 </h1>
 <p align="left" dir="auto">
 </p><ul dir="auto"><li><b>Location:</b>Seattle, WA</li> 
-  <li><b>Phone:</b>(206)-769-1821</li> 
+  <li><b>Phone:</b>(206)-556-8535</li> 
   <li><b>Email:</b>eyerusalemdani@gmail.com</li>
   <li><b>Github:</b><a href="https://github.com/eyerusalemdani">https://github.com/eyerusalemdani</a></li>
  
@@ -41,13 +41,13 @@
   <b>Tasks Performed:<b><br>
   <li>	Developed front end using React</li>
   <li>Implemented Database using SQL Server</li>
-  <li>	Writing clean, scalable code using C# Programming language</li>
+  <li>	Writing clean, scalable code using javascript Programming language</li>
   <li>Developed Data Access Layer using Entity Framework Core</li>
-  <li>Developed Services using ASP.Net core web API</li>
+  <li>Developed android app using react native </li>
   <li>Styled using CSS and bootstrap.</li>
   <li>Used HTML to structure a web.</li>
   <li>Used Azure DevOps for version Control.</li>
-  <li>Used Azure for deployment.</li>
+  <li>Used Azure/AWS for deployment.</li>
   <li>Used Java for backend</li>
   </b></b></ul><b><b>
 <p dir="auto"></p>
@@ -55,8 +55,8 @@
 <p dir="auto">
 </p><h2 dir="auto"><a id="user-content-projects" class="anchor" aria-hidden="true" href="#projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Projects</h2>
 <ul dir="auto">
-<li><a href="https://github.com/dannyzsea">GitHub Link</a></li>
-<li><a href="https://netflix-25d49.web.app/" rel="nofollow">Netflix clone</a></li>
+<li><a href="https://github.com/eyerusalemdani">GitHub Link</a></li>
+
 </ul>
 <h2 dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skills</h2>
 <b>
@@ -65,27 +65,27 @@
 • SQL Server • 
   </b>
 <ul dir="auto">
-  <li><b>  C#, Java, JavaScript </b></li><b>
+  <li><b>  Native React, Java, JavaScript </b></li><b>
   <li><b>Web:</b> JavaScript, Node.js, HTML5, Bootstrap</li>
   <li><b>Web Services:</b>  RESTful, JSON,</li>
-  <li><b>Frameworks:</b> Node.js, Express, Bootstrap, .NET</li>
+  <li><b>Frameworks:</b> Node.js, Express, Bootstrap, Java</li>
   <li><b>Databases:</b>  MySQL, SQL</li>
   <li><b>Tools:</b>  Visual Studio, Visual Studio Code, IntelliJ, Postman, Trello, Git</li>
-  <li><b>Platforms:</b>  Windows, Linux</li>
+  <li><b>Platforms:</b>  Windows </li>
   </b></ul><b>
   <p dir="auto">
-</p><h2 align="center" dir="auto"><a id="user-content-bachelor-of-science-in-electrical-and-computer-engineering" class="anchor" aria-hidden="true" href="#bachelor-of-science-in-electrical-and-computer-engineering"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Bachelor of Science in Electrical and Computer Engineering</i></h2>
-<h3 align="center" dir="auto"><a id="user-content--ethiopian-institute-of-technology-mekelle-eit-m--mekelle--tigray" class="anchor" aria-hidden="true" href="#-ethiopian-institute-of-technology-mekelle-eit-m--mekelle--tigray"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Ethiopian Institute Of Technology Mekelle (EIT-M),  Mekelle , Tigray</h3><br>
+</p><h2 align="center" dir="auto"><a id="user-content-bachelor-of-science-application-development" class="anchor" aria-hidden="true" href="#bachelor-of-science-in-application-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Bachelor of Science in Application Development</i></h2>
+<h3 align="center" dir="auto"><a id="user-content--north-seattle-college-eit-m--seattle--washington" class="anchor" aria-hidden="true" href="#-north-seattle-college-eit-m--seattle--washington"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> North Seattle College (NSC-S),  Seattle , Washington</h3><br>
 <b>Key Courses:</b> Software Engineering, Database management system, Modern Programming Practices,
-, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming, C++ programming…
+, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming, Javascript, HTML, CSS…
 <h3 dir="auto"><a id="user-content-where-to-find-me" class="anchor" aria-hidden="true" href="#where-to-find-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Where To find me</h3>
-<p dir="auto"><a href="https://github.com/dannyzsea"><img alt="Github" src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;"></a> 
- <a href="https://www.linkedin.com/in/daniel-hagos-12a724216/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://medium.com/@dannyzsea" rel="nofollow"><img alt="Medium" src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://github.com/eyerusalemdani"><img alt="Github" src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;"></a> 
+ <a href="linkedin.com/in/daniel-gebres-048471202" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://medium.com/@dangebreselassie19" rel="nofollow"><img alt="Medium" src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
     <p dir="auto"></p>
     <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f11cf39847cd33bf012ceabdc614c08740075c5498b1a8b80b10af22e22b51a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d64616e6e797a736561267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/1f11cf39847cd33bf012ceabdc614c08740075c5498b1a8b80b10af22e22b51a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d64616e6e797a736561267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=dannyzsea&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f11cf39847cd33bf012ceabdc614c08740075c5498b1a8b80b10af22e22b51a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d64616e6e797a736561267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/1f11cf39847cd33bf012ceabdc614c08740075c5498b1a8b80b10af22e22b51a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d64616e6e797a736561267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=eyerusalemdani&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
 </p>
 </b></b></b></b></article>
   </div>
